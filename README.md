@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 \n
 Research assistant working in the material sciences 
 I'm currently working on my PhD on the automation of organic electronic research. :)
 <!--
