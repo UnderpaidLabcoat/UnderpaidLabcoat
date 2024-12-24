@@ -1,5 +1,7 @@
-## Hi there 👋 \n
+## Hi there 👋 
+
 Research assistant working in the material sciences 
+
 I'm currently working on my PhD on the automation of organic electronic research. :)
 <!--
 **UnderpaidLabcoat/UnderpaidLabcoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
